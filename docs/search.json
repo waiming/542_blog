@@ -1,61 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "542 Blog",
-    "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 16, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nHow Data Engineering Powers Data Science: The Architecture of Modern Analytics\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 16, 2025\n\n\nWai Ming Wong\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#scalability-across-projects",
-    "href": "index.html#scalability-across-projects",
-    "title": "How Data Engineering Powers Data Science: The Architecture of Modern Analytics",
-    "section": "1. Scalability Across Projects",
-    "text": "1. Scalability Across Projects\nData engineering provides a centralized system that scales effortlessly across multiple projects. Without it, each data science project might involve ad-hoc solutions to acquire and clean data, leading to inefficiencies and duplication of work.\nImagine a retail company with multiple teams working on sales forecasting, inventory optimization, and customer churn prediction. Without a robust data engineering layer, these teams might independently extract and preprocess data, creating silos and inconsistencies."
-  },
-  {
-    "objectID": "index.html#minimizing-redundant-workloads",
-    "href": "index.html#minimizing-redundant-workloads",
-    "title": "How Data Engineering Powers Data Science: The Architecture of Modern Analytics",
-    "section": "2. Minimizing Redundant Workloads",
-    "text": "2. Minimizing Redundant Workloads\nData engineering eliminates redundant tasks by creating reusable pipelines and standardized datasets. This allows data scientists to focus on analysis and modeling rather than spending 60-80% of their time wrangling messy data."
-  },
-  {
-    "objectID": "index.html#reliable-data-access",
-    "href": "index.html#reliable-data-access",
-    "title": "How Data Engineering Powers Data Science: The Architecture of Modern Analytics",
-    "section": "3. Reliable Data Access",
-    "text": "3. Reliable Data Access\nWell-designed data engineering ensures that data is: - Available in real-time or near real-time. - Consistent across systems and projects. - Secure and governed to meet regulatory requirements.\nThis reliability builds trust in the data and accelerates decision-making processes."
-  },
-  {
-    "objectID": "index.html#clear-roles-and-responsibilities",
-    "href": "index.html#clear-roles-and-responsibilities",
-    "title": "How Data Engineering Powers Data Science: The Architecture of Modern Analytics",
-    "section": "Clear Roles and Responsibilities",
-    "text": "Clear Roles and Responsibilities\n\nData Engineering Team: Focuses on building and maintaining data pipelines, databases, and governance frameworks.\nData Science Team: Consumes the cleaned and structured data to develop models and generate insights."
-  },
-  {
-    "objectID": "index.html#best-practices-for-collaboration",
-    "href": "index.html#best-practices-for-collaboration",
-    "title": "How Data Engineering Powers Data Science: The Architecture of Modern Analytics",
-    "section": "Best Practices for Collaboration",
-    "text": "Best Practices for Collaboration\n\nDefine Interfaces: Clearly specify the datasets, schemas, and access methods that data engineering will provide to data science.\nFrequent Communication: Establish regular touchpoints to align priorities and resolve issues.\nShared Documentation: Maintain a centralized repository of data dictionaries, pipeline workflows, and system designs.\nAgile Practices: Use iterative development methods to ensure that data engineering evolves alongside the changing needs of data science."
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "How Data Engineering Powers Data Science: The Architecture of Modern Analytics",
-    "section": "",
-    "text": "When we think about data science, the first things that come to mind are machine learning models, predictive analytics, and visualizations that turn raw numbers into actionable insights. But what enables these flashy deliverables? Behind every successful data science project lies an unsung hero: data engineering. Without it, even the best data science team is likely to stumble. In this blog, we’ll explore why data engineering is vital to data science, what happens when it’s absent, and how organization can optimize their workflows by investing in it."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -63,11 +7,11 @@
     "text": "About this blog"
   },
   {
-    "objectID": "index.html#reliable-data-access-single-point-of-truth",
-    "href": "index.html#reliable-data-access-single-point-of-truth",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
     "title": "How Data Engineering Powers Data Science: The Architecture of Modern Analytics",
-    "section": "3. Reliable Data Access (Single Point of Truth)",
-    "text": "3. Reliable Data Access (Single Point of Truth)\nWell-designed data engineering ensures that data is: - Available in real-time or near real-time. - Consistent across systems and projects. - Secure and governed to meet regulatory requirements.\nThis reliability builds trust in the data and accelerates decision-making processes."
+    "section": "",
+    "text": "When we think about data science, the first things that come to mind are machine learning models, predictive analytics, and visualizations that turn raw numbers into actionable insights. The tool you usually thinks of is Jupyter Notebook. How about you want to work smoothly in a scalable and team solution, here is the solution comes in: data engineering. Without it, even the best data science team is likely to stumble. In this blog, we’ll explore why data engineering is vital to data science, what happens when it’s absent, and how organization can optimize their workflows by investing in it."
   },
   {
     "objectID": "posts/welcome/index.html#scalability-across-projects",
@@ -81,14 +25,14 @@
     "href": "posts/welcome/index.html#minimizing-redundant-workloads",
     "title": "How Data Engineering Powers Data Science: The Architecture of Modern Analytics",
     "section": "2. Minimizing Redundant Workloads",
-    "text": "2. Minimizing Redundant Workloads\nData engineering eliminates redundant tasks by creating reusable pipelines and standardized datasets. This allows data scientists to focus on analysis and modeling rather than spending 60-80% of their time wrangling messy data."
+    "text": "2. Minimizing Redundant Workloads\nData engineering eliminates redundant tasks by creating reusable pipelines and standardized datasets. This allows data scientists to focus on analysis and modeling rather than spending 60-80% of their time wrangling messy data. This can saves times by remove redundant works of each others."
   },
   {
     "objectID": "posts/welcome/index.html#reliable-data-access-single-point-of-truth",
     "href": "posts/welcome/index.html#reliable-data-access-single-point-of-truth",
     "title": "How Data Engineering Powers Data Science: The Architecture of Modern Analytics",
     "section": "3. Reliable Data Access (Single Point of Truth)",
-    "text": "3. Reliable Data Access (Single Point of Truth)\nWell-designed data engineering ensures that data is: - Available in real-time or near real-time. - Consistent across systems and projects. - Secure and governed to meet regulatory requirements.\nThis reliability builds trust in the data and accelerates decision-making processes."
+    "text": "3. Reliable Data Access (Single Point of Truth)\nWell-designed data engineering ensures that data is: - Available in different latencies requirements, balancing the system cost budgets. - Consistent across systems and projects. - Secure and governed to meet regulatory requirements.\nThis reliability builds trust in the data and accelerates decision-making processes."
   },
   {
     "objectID": "posts/welcome/index.html#clear-roles-and-responsibilities",
@@ -103,5 +47,19 @@
     "title": "How Data Engineering Powers Data Science: The Architecture of Modern Analytics",
     "section": "Best Practices for Collaboration",
     "text": "Best Practices for Collaboration\n\nDefine Interfaces: Clearly specify the datasets, schemas, and access methods that data engineering will provide to data science.\nFrequent Communication: Establish regular touchpoints to align priorities and resolve issues.\nShared Documentation: Maintain a centralized repository of data dictionaries, pipeline workflows, and system designs.\nAgile Practices: Use iterative development methods to ensure that data engineering evolves alongside the changing needs of data science."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "542 Blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 16, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nHow Data Engineering Powers Data Science: The Architecture of Modern Analytics\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 16, 2025\n\n\nWai Ming Wong\n\n\n\n\n\n\nNo matching items"
   }
 ]

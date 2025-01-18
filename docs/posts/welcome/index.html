@@ -156,19 +156,18 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="introduction" class="level1">
 <h1>Introduction</h1>
-<p>When we think about data science, the first things that come to mind are machine learning models, predictive analytics, and visualizations that turn raw numbers into actionable insights. But what enables these flashy deliverables? Behind every successful data science project lies an unsung hero: <strong>data engineering</strong>. Without it, even the best data science team is likely to stumble. In this blog, we’ll explore why data engineering is vital to data science, what happens when it’s absent, and how organization can optimize their workflows by investing in it.</p>
+<p>When we think about data science, the first things that come to mind are machine learning models, predictive analytics, and visualizations that turn raw numbers into actionable insights. The tool you usually thinks of is Jupyter Notebook. How about you want to work smoothly in a scalable and team solution, here is the solution comes in: <strong>data engineering</strong>. Without it, even the best data science team is likely to stumble. In this blog, we’ll explore why data engineering is vital to data science, what happens when it’s absent, and how organization can optimize their workflows by investing in it.</p>
 <hr>
 </section>
 <section id="what-is-data-engineering" class="level1">
 <h1>What is Data Engineering?</h1>
 <p>Data engineering involves building and maintaining the infrastructure that allows data to flow seamlessly from raw sources to analytical insights. It encompasses:</p>
 <ul>
-<li><strong>Data pipelines:</strong> Automating the extraction, transformation, and loading (as known as ETL) of data.</li>
-<li><strong>Storage systems:</strong> Designing scalable databases, data warehouses, and data lake.</li>
-<li><strong>Data governance:</strong> Ensuring data is clean, consistent, and accessible.</li>
-<li><strong>Automation:</strong> Creating workflows to minimize manual intervention.</li>
+<li><strong>Data pipelines:</strong> Automating the extraction, transformation, and loading (as known as ETL) of data, from different kinds of data sources.</li>
+<li><strong>Storage systems:</strong> Designing scalable databases, data warehouses, and data lake, depends on data sizes, frequencies of usage, and latencies.</li>
+<li><strong>Data governance:</strong> Ensuring data is clean, consistent, and accessible. GDPR compliant enforced.</li>
+<li><strong>Automation:</strong> Creating workflows and dependencies to minimize manual intervention.</li>
 </ul>
-<p>In essence, data engineering ensures that data scientists receive reliable, well-organized datasets to work their magic.</p>
 <hr>
 </section>
 <section id="why-data-engineering-is-crucial-for-data-science" class="level1">
@@ -180,11 +179,11 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="minimizing-redundant-workloads" class="level2">
 <h2 class="anchored" data-anchor-id="minimizing-redundant-workloads">2. Minimizing Redundant Workloads</h2>
-<p>Data engineering eliminates redundant tasks by creating reusable pipelines and standardized datasets. This allows data scientists to focus on analysis and modeling rather than spending 60-80% of their time wrangling messy data.</p>
+<p>Data engineering eliminates redundant tasks by creating reusable pipelines and standardized datasets. This allows data scientists to focus on analysis and modeling rather than spending 60-80% of their time wrangling messy data. This can saves times by remove redundant works of each others.</p>
 </section>
 <section id="reliable-data-access-single-point-of-truth" class="level2">
 <h2 class="anchored" data-anchor-id="reliable-data-access-single-point-of-truth">3. Reliable Data Access (Single Point of Truth)</h2>
-<p>Well-designed data engineering ensures that data is: - Available in real-time or near real-time. - Consistent across systems and projects. - Secure and governed to meet regulatory requirements.</p>
+<p>Well-designed data engineering ensures that data is: - Available in different latencies requirements, balancing the system cost budgets. - Consistent across systems and projects. - Secure and governed to meet regulatory requirements.</p>
 <p>This reliability builds trust in the data and accelerates decision-making processes.</p>
 <hr>
 </section>
@@ -193,7 +192,7 @@ ul.task-list li input[type="checkbox"] {
 <h1>The Consequences of Neglecting Data Engineering</h1>
 <p>What happens if data engineering is absent? Here are some common issues:</p>
 <ol type="1">
-<li><p><strong>Inconsistent Data:</strong> Teams may work with different versions of the same dataset, leading to conflicting insights.</p></li>
+<li><p><strong>Inconsistent Data:</strong> Teams may work with different versions of the same dataset, leading to conflicting insights. Metric definitions may be defined by different teams, and makes different interpretations.</p></li>
 <li><p><strong>Project Delays:</strong> Without automated pipelines, data scientists spend excessive time cleaning and preparing data.</p></li>
 <li><p><strong>Scalability Issues:</strong> Ad-hoc solutions may work for small projects but crumble under the weight of larger datasets or more complex requirements.</p></li>
 <li><p><strong>Collaboration Bottlenecks:</strong> Siloed workflows make it hard for teams to share insights or replicate analyses.</p></li>
