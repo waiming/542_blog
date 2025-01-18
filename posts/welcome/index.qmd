@@ -80,7 +80,7 @@ Let’s visualize the difference:
 
 Below is an example of system flow with data engineering:
 
-![My Chart](system2.png)
+![Figure 1: Example of system flow with data engineering](system2.png)
 
 ---
 
