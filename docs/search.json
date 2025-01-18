@@ -39,7 +39,7 @@
     "href": "posts/welcome/index.html#clear-roles-and-responsibilities",
     "title": "How Data Engineering Powers Data Science: The Architecture of Modern Analytics",
     "section": "Clear Roles and Responsibilities",
-    "text": "Clear Roles and Responsibilities\n\nData Engineering Team: Focuses on building and maintaining data pipelines, databases, and governance frameworks.\nData Science Team: Consumes the cleaned and structured data to develop models and generate insights."
+    "text": "Clear Roles and Responsibilities\n\nData Engineering Team: Focuses on building, scaling and maintaining data pipelines, databases, and governance frameworks.\nData Science Team: Consumes the cleaned and structured data to develop models and generate insights."
   },
   {
     "objectID": "posts/welcome/index.html#best-practices-for-collaboration",

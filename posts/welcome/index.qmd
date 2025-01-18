@@ -87,7 +87,7 @@ Below is an example of system flow with data engineering:
 # Structuring Data Engineering and Data Science Teams
 
 ## Clear Roles and Responsibilities
-- **Data Engineering Team:** Focuses on building and maintaining data pipelines, databases, and governance frameworks.
+- **Data Engineering Team:** Focuses on building, scaling and maintaining data pipelines, databases, and governance frameworks.
 - **Data Science Team:** Consumes the cleaned and structured data to develop models and generate insights.
 
 ## Best Practices for Collaboration
@@ -123,8 +123,8 @@ Below is an example of system flow with data engineering:
 
 # Conclusion
 
-Data science may grab the headlines, but data engineering is the backbone that makes it all possible. By investing in robust data engineering practices, organizations can unlock the full potential of their data science initiatives, enabling faster insights, scalable workflows, and sustainable growth. If you’re a professional curious about optimizing your organization’s analytics capabilities, start with data engineering—because even the best models can’t run on broken foundations.
+Data science may grab the headlines, but data engineering is the backbone that makes it all possible. By investing in robust data engineering practices, organizations can unlock the full potential of their data science initiatives, enabling faster insights, scalable workflows, and sustainable growth. If you’re a professional curious about optimizing your organization’s analytics capabilities, start with data engineering, because even the best models can’t run on broken foundations.
 
 ---
 
-What are your thoughts on the role of data engineering in data science? Let’s discuss in the comments below!
+What are your thoughts on the role of data engineering in data science? 
