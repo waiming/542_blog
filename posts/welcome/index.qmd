@@ -3,6 +3,7 @@ title: "How Data Engineering Powers Data Science: The Architecture of Modern Ana
 author: "Wai Ming Wong"
 date: "2025-01-16"
 categories: [news]
+image: "system.png"
 ---
 
 
@@ -79,7 +80,7 @@ Let’s visualize the difference:
 
 Below is an example of system flow with data engineering:
 
-- **Raw data sources** (e.g., CRM, sensors, web logs) → **Data pipelines** (ETL tools like Airflow) → **Data warehouse** (Snowflake or Redshift) → **Analytical tools** (Jupyter Notebooks, Tableau).
+![My Chart](system2.png)
 
 ---
 
